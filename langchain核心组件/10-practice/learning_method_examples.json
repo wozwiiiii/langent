@@ -1,0 +1,7 @@
+[
+{"subject": "Python编程（入门）", "difficulty": "easy", "method": "核心目标：掌握基础语法；学习步骤：1.变量与数据类型 2.条件语句；注意事项：边学边练"},
+{"subject": "Python编程（进阶）", "difficulty": "hard", "method": "核心目标：掌握面向对象与库开发；学习步骤：1.类与对象 2.模块开发；注意事项：参与开源项目"},
+{"subject": "机器学习（入门）", "difficulty": "easy", "method": "核心目标：理解基础概念；学习步骤：1.数据预处理 2.简单模型；注意事项：用Excel辅助理解"},
+{"subject": "深度学习（入门）", "difficulty": "medium", "method": "核心目标：掌握深度学习模型优化；学习步骤：1.RAG工程 2.模型调优；注意事项：项目复现深入思考"},
+{"subject": "深度学习（进阶）", "difficulty": "medium", "method": "核心目标：掌握深度学习模型创建；学习步骤：1.AentigcRAG工程 2.记忆机制；注意事项：项目复现深入思考项目结构"}
+]
