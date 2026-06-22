@@ -34,3 +34,17 @@ Thumbs.db
 *.log
 *.tmp
 *.bak
+
+# ===== 大型模型与向量库（不提交到仓库） =====
+# 本地下载的预训练模型
+models/
+*/models/
+
+# FAISS 向量库（任何位置）
+faiss_db/
+*/faiss_db/
+
+# Chroma 向量库
+chroma_db/
+*/chroma_db/
+.chroma/
