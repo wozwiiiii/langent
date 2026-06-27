@@ -65,7 +65,7 @@ def print_progress(current_stage: str,detail: str = ""):
 
 def print_chapter_progress(generate: int, total: int):
     """
-    打印章节生成进度（小数），监控小说生成进度
+    打印章节生成进度（小数），监控实验生成进度
     """
     percentage = generate / total if total > 0 else 0.0
     print(f"\n当前章节生成进度：{generate}/{total} - {generate}/{total} 章 {percentage:.2f}%")
